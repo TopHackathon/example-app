@@ -32,5 +32,10 @@ public class GreetingTest {
         //Hmm this seems wrong - hint hint
         assertNotEquals("Hello Nik", greeting.sayHello("Nik"));
     }
+
+    @Test
+    public void test_once_again() {
+        assertTrue(true == true);
+    }
 }
 
