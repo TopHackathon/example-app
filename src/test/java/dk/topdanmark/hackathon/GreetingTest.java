@@ -35,7 +35,12 @@ public class GreetingTest {
 
     @Test
     public void test_once_again() {
-        assertTrue(1==2);
+        assertTrue(1 == 2);
+
+    }
+    @Test
+    public void test_even_more() {
+        assertTrue(2==2);
 
     }
 }
