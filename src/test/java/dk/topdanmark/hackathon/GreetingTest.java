@@ -35,7 +35,7 @@ public class GreetingTest {
 
     @Test
     public void test_once_again() {
-        assertTrue(2 == 2);
+        assertTrue(2==2);
 
     }
     @Test
@@ -44,4 +44,3 @@ public class GreetingTest {
 
     }
 }
-
