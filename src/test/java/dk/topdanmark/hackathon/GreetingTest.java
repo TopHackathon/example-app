@@ -44,4 +44,11 @@ public class GreetingTest {
         assertTrue(2==2);
 
     }
+
+    @Test
+    public void test_even_more2() {
+        assertTrue(2==2);
+        assertTrue(3==3);
+
+    }
 }
